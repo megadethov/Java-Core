@@ -3,7 +3,11 @@ package ua.mega.lambda;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class SortCollectionsTest {
+/**
+ * [Udemy] - Java. От простого к сложному. - Видеоуроки
+ * Урок 82. Lambda-expressions. Основы, синтаксис
+ */
+public class Зачем_Нужны_Лямбды {
     public static void main(String[] args) {
         // имеем массив интов
         int[] numbers = {5, 1, 3, 2, 4};
