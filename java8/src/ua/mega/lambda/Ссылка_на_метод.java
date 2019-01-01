@@ -1,5 +1,9 @@
 package ua.mega.lambda;
 
+/**
+ * [Udemy] - Java. От простого к сложному. - Видеоуроки
+ * Урок 84. Method reference
+ */
 public class Ссылка_на_метод {
     public static void main(String[] args) {
         String message = "HELLO";
