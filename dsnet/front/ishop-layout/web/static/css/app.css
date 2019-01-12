@@ -127,3 +127,12 @@ footer {
 .more-options a{
     cursor: pointer;
 }
+
+.xs-option-container {
+    margin: 10px 0;
+}
+
+.xs-option-container a {
+    cursor: pointer;
+    text-decoration: none;
+}
