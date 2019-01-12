@@ -85,3 +85,9 @@
 .list-group {
     margin: 0;
 }
+
+.col-xlg-2 {
+    position: relative;
+    min-height: 1px;
+    padding: 0 15px;
+}
