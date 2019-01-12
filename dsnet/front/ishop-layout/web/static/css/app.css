@@ -30,3 +30,10 @@
     -moz-border-top-right-radius: 10px;
     border-top-right-radius: 10px;
 }
+
+.product .name,
+.product .list-group-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
