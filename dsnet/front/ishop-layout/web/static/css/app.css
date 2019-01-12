@@ -118,3 +118,8 @@ footer {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdff0d8', endColorstr='#ffd0e9c6', GradientType=0);
     background-repeat: repeat-x;
 }
+
+.more-options {
+    text-align: center;
+    margin-top: 10px;
+}
