@@ -37,3 +37,47 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
+.product .thumbnail {
+    position: relative;
+}
+
+.product .desc {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.87;
+    text-align: justify;
+    background: #FFF;
+    padding: 7px;
+    display: none;
+}
+
+.product .cell {
+    text-align: center;
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.product .cell p{
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.product .desc .title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.product .thumbnail:HOVER .desc {
+    display: block;
+}
