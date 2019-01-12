@@ -3,3 +3,9 @@
     padding-bottom: 6px;
     border-bottom: 1px solid #ddd;
 }
+
+.product .code {
+    display: inline-block;
+    font-size: 0.8em;
+    margin: 11px 0 16px;
+}
