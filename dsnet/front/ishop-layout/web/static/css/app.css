@@ -136,3 +136,10 @@ footer {
     cursor: pointer;
     text-decoration: none;
 }
+
+@media (min-width: 767px) {
+    #findProducts,
+    #productCatalog {
+        display: block;
+    }
+}
