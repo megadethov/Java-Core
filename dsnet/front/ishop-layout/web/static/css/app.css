@@ -81,3 +81,7 @@
 .product .thumbnail:HOVER .desc {
     display: block;
 }
+
+.list-group {
+    margin: 0;
+}
