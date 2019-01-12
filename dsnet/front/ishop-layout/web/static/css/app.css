@@ -9,3 +9,24 @@
     font-size: 0.8em;
     margin: 11px 0 16px;
 }
+
+.product {
+    position: relative;
+}
+
+.product .price {
+    position: absolute;
+    left: -10px;
+    top: 30px;
+    background: #FAAC58;
+    font-size: 12pt;
+    color: #1D436A;
+    font-weight: bold;
+    padding: 5px 10px 5px 5px;
+    -webkit-border-bottom-right-radius: 10px;
+    -moz-border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-top-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
