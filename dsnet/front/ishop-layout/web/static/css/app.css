@@ -91,3 +91,10 @@
     min-height: 1px;
     padding: 0 15px;
 }
+
+@media (min-width: 1600px) {
+    .col-xlg-2 {
+        float: left;
+        width: 16.6667%;
+    }
+}
