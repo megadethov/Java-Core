@@ -143,3 +143,15 @@ footer {
         display: block;
     }
 }
+
+.shopping-cart-desc {
+    padding: 15px;
+}
+
+.shopping-cart-desc .btn{
+    margin-top: 10px;
+}
+
+.navbar-btn.navbar-right.sign-in {
+    margin-right: 10px;
+}
